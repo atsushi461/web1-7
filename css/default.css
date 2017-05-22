@@ -10,7 +10,7 @@ body{
   margin: 48px 0 0 0;
 }
 header{
-  background-color: orange;
+  background-color: darkgreen;
   position: fixed;
   left: 0;
   top: 0;
@@ -43,11 +43,11 @@ aside{
   right: 10px;
 }
 footer{
-  background-color: purple;
+  background-color: cyan;
   clear: both;
 }
 .box{
-  background-color: red;
+  background-color: deeppink;
   color: black;
   width: 240px;
   height: 80px;
